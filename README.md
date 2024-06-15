@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akayy-dev?tab=repositories](https://github.com/akayy-dev?tab=repositories)
-
+- 🧑🏾‍💼 All of my projects are available at [https://github.com/akayy-dev?tab=repositories](https://github.com/akayy-dev?tab=repositories)
+- 👨🏾‍💻 I'm currently working on [ferenji,org](https://www.ferenji.org), an online free-to-use English to Amharic dictionary.
 - 📫 How to reach me **ahadukebede@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
